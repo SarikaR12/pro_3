@@ -15,7 +15,7 @@ else{
 
 
 
-// let arr = [13, 4, 8, 6, 20]
+// let arr = [2,5,8,34,9,13]
 
 // let found=false;
 // for (let i = 0; i < arr.length; i++) {
